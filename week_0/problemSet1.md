@@ -13,7 +13,7 @@ Read through ["An Objective-C Primer"](http://courseware.codeschool.com.s3.amazo
 
 3) Write a function that will take an NSSArray as an input and prints the sum of the numbers in the array. Call this function in your homework submission so that when we compile your code it will run and print your answer. Use the following array for your example: @[100, 80, 85, 70, 99, 50, 45, 89, 34, 53, 25, 39]. 
 
-**Hint: You may want to use [NSLog](https://developer.apple.com/library/mac/documentation/Cocoa/Reference/Foundation/Miscellaneous/Foundation_Functions/#//apple_ref/c/func/NSLog) to print the answers to your questions. So, when we compile your code we should see the following output in the console: "Question 1: Your Answer, Question 2:  Your Answer, etc." **
+**Hint: You may want to use [NSLog](https://developer.apple.com/library/mac/documentation/Cocoa/Reference/Foundation/Miscellaneous/Foundation_Functions/#//apple_ref/c/func/NSLog) to print the answers to your questions. So, when we compile your code we should see the following output in the console: "Question 1: Your Answer, Question 2:  Your Answer, etc.**
 
 **Additional Hints: For Question 1 you may need to make sure of the [uppercaseString](https://developer.apple.com/library/mac/documentation/Cocoa/Reference/Foundation/Classes/NSString_Class/#//apple_ref/occ/instp/NSString/uppercaseString) method. For Question 2 you may need to make use of the modulo operator.**
 
