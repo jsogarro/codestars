@@ -11,7 +11,7 @@ Read through ["An Objective-C Primer"](http://courseware.codeschool.com.s3.amazo
 
 2) Using an if statement and a for loop write a program that will loop through an array and print only the even numbers. Your program should log the answer to the console so we can see the output when it runs. Use the following array for your example: @[@45, @22090909, @5698, @90433, @43431, @3454115, @43002, @109981, @545, @14345435, @1009282, @90909, @13233, @443535, @14782920, @49304, @434];
 
-3) Write a function that will take an NSSArray as an input and prints the sum of the numbers in the array. Call this function in your homework submission so that when we compile your code it will run and print your answer. Use the following array for your example: @[100, 80, 85, 70, 99, 50, 45, 89, 34, 53, 25, 39]. 
+3) Write a function that will take an NSSArray as an input and prints the sum of the numbers in the array. Call this function in your homework submission so that when we compile your code it will run and print your answer. Use the following array for your example: @[@100, @80, @85, @70, @99, @50, @45, @89, @34, @53, @25, @39]. 
 
 **Hint: You may want to use [NSLog](https://developer.apple.com/library/mac/documentation/Cocoa/Reference/Foundation/Miscellaneous/Foundation_Functions/#//apple_ref/c/func/NSLog) to print the answers to your questions. So, when we compile your code we should see the following output in the console: "Question 1: Your Answer, Question 2:  Your Answer, etc.**
 
