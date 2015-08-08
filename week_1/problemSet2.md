@@ -21,4 +21,4 @@ Re-read Chapters 13, 14, 18 and 19 of Objective-C Programming: The Big Nerd Ranc
 
 
 ## Writing Assignment
-Using your Medium, account write a blog post about methods and message sends in Objective-C. You should speak and give examples about the different ways methods can be sent. Describe how to create and call a method that takes multiple arguments and explain why method definitions are so verbose in Objective-C.
+Using your Medium, account write a blog post about methods and message sends in Objective-C. You should speak and give examples about the different ways messages can be sent. Describe how to create and call a method that takes multiple arguments and explain why method definitions are so verbose in Objective-C.
