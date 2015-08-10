@@ -9,9 +9,9 @@ Re-read Chapters 20-23 of Objective-C Programming: The Big Nerd Ranch Guide.
 
 1) Explain the concept of inheritance and how the super keyword is used in Objective C.
 
-2) Create a Square class that inherits from the Shape class that you created in **Problem Set 2** and calculate the area of that class. The formula to calculate the area of a square is area = width * height.
+2) Create a Square class that inherits from the Shape class that you created in **Problem Set 2** and calculate the area of that class. **The formula to calculate the area of a square is area = width * height**.
 
-3) Create a Circle class that inherits from the Shape class that you created in **Problem Set 2** and calculate the area of that class. The formula to calculate the area of a circle is area = 3.14 * radius * radius.
+3) Create a Circle class that inherits from the Shape class that you created in **Problem Set 2** and calculate the area of that class. **The formula to calculate the area of a circle is area = 3.14 * radius * radius**.
 
 4) Instantiate a Circle and Square class in main.m and log the area for each to the console.
 
