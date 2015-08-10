@@ -13,7 +13,7 @@ Re-read Chapters 13, 14, 18 and 19 of Objective-C Programming: The Big Nerd Ranc
 
 *Note: For questions 1 and 2 we are only interested in the seeing the syntax of how this method would appear if it were a part of a class. Please include your answers to both questions in a single markdown file in your Git repository (folder) that you will be using to submit this week's homework. You can read more about markdown here: [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) (pay special attention to the syntax highlighting section). Please include this file in the root of the directory you will be using to submit your homework.*
 
-3) Create a Shape class that has a height and width property. Include a class method that will calculate the area of the shape, where area is defined as the shape's height multiplied by its width. For this question you should submit an Xcode project that includes a .m nad h. file that correctly implements your class.
+3) Create a Shape class that has a height and width property. Include a class method that will calculate the area of the shape, where area is defined as the shape's height multiplied by its width. For this question you should submit an Xcode project that includes a .m and .h file that correctly implements your class.
 
 **Hint: For questions 1 and 2 you may want to search through the Apple docs to find a method on the NSString class that converts a string into an NSArray**
 
