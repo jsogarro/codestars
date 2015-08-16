@@ -3,7 +3,7 @@
 Please submit the link to your completed problem set on Github via Slack. The deadline to submit your answers to this problem set is **Saturday, August 22nd at 11:59 PM**.
 
 ## Reading Assignment
-Read chapter 24 of Objective-C Programming: The Big Nerd Ranch Guide. In addition, read chapters 1 - 3 of [Learn iOS 8 Programming from Scratch ](http://www.appcoda.com/book/learn-ios7-programming-from-scratch.html#packages) (make sure you purchase the the Objective-C version of the book for iOS 8 and purchase the book only). For both of the readings above you are to code along with the examples and submit Xcode projects containing your project code.
+Read chapter 24 of Objective-C Programming: The Big Nerd Ranch Guide. In addition, read chapters 1 - 3 of [Learn iOS 8 Programming from Scratch ](http://www.appcoda.com/book/learn-ios7-programming-from-scratch.html) (make sure you purchase the the Objective-C version of the book for iOS 8 and purchase the book only). For both of the readings above you are to code along with the examples and submit Xcode projects containing your project code.
 
 ## Coding Exercises
 1) Write a function that takes an NSSArray of strings as an argument and returns a new NSArray of the same strings capitalized. For example, if I were to pass the following array @[@"cat", @"dog", @"frog"] it would return @[@"CAT", @"DOG", @"FROG"].
