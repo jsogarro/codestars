@@ -12,6 +12,7 @@ Read chapters 4-6 of [Learn iOS 8 Programming from Scratch ]. For the reading ab
 
 ## Writing Assignment
 Using your Medium account write a separate blog post for the following topics:
+
 1) Explain the concepts of delegates and protocols. How are they used in iOS?
 
 2) Explain the concept of MVC and how it works.
