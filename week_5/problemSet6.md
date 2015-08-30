@@ -7,7 +7,7 @@ Read chapters 7-11 of [Learn iOS 8 Programming from Scratch ]. For the reading a
 
 ## Coding Exercises
 
-1) Create a Travel iPhone application. The application should include a launch screen and a table view that displays a list of destinations that navigate to a detail view. The detail view should contain a label for the name, an imageview for the image and a textview for a description about the destination. In addition, your app should have a tab bar interface with a tab linked to your destinations list, an about page with details about your app and a bio page with details about yourself.
+1) Create a Travel iPhone application. The application should include a launch screen and a table view that displays a list of destinations that navigate to a detail view. The detail view should contain a label for the name, an imageview for the image and a textview for a description about the destination. In addition, your app should have a tab bar interface with a tab linked to your destinations list, an About page with details about your app and a Bio page with details about yourself.
 
 
 ## Writing Assignment
