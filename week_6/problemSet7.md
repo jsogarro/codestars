@@ -4,5 +4,5 @@ Please submit the link to your completed problem set on Github via Slack. The de
 
 ## Coding Exercises
 
-1) Code along while reviewing [Apple's Start Developing iOS Apps Today](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/index.html) and turn in your copy of the completed version.
+1) Code along while reviewing [Apple's Start Developing iOS Apps Today](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/index.html) and turn in your copy of the completed version of the tutorial.
 
